@@ -1,4 +1,4 @@
-# Java Coding Interview Practice Project
+# Java Coding Practice Project
 
 A structured, offline-friendly workspace of 63 LeetCode-style algorithm challenges,
 split evenly across **basic**, **intermediate**, and **advanced** tiers. Every
@@ -177,14 +177,14 @@ lives inside that path.
 
 ---
 
-## Interview tips
+## Tips on solving the challenges
 
 - **Read the problem twice.** Confirm you understand every constraint before coding.
-- **Think out loud.** Practice narrating your approach as you would in a real interview.
+- **Think out loud.** Practice narrating your approach as you would.
 - **Consider edge cases.** Empty input, a single element, all-duplicate values, etc.
 - **Dry run before testing.** Trace your code by hand on the example input first.
 - **Compare, don't copy.** Once you have a working (or stuck) attempt, read the
   reference solution's README for the complexity trade-offs — understanding *why*
-  one approach beats another is the actual interview skill.
+  one approach beats another.
 
 **Happy coding!**
