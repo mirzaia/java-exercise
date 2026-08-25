@@ -41,7 +41,7 @@ Compare every pair of numbers with two nested loops.
 Walk the list once. For each number, first check if its complement
 (`target - number`) is already in your hash map; if not, record the current
 number and its index and move on.
-**Time O(n) · Space O(n)** — the standard interview-accepted answer.
+**Time O(n) · Space O(n)** — the standard accepted answer.
 
 ## Reference implementation
 
